@@ -70,8 +70,8 @@ export const projects = [
         name: "Fyurr",
         text: "Fyyur is a musical venue and artist booking site that facilitates the discovery and bookings of shows between local performing artists and venues. This site lets you list new artists and venues, discover them, and list shows with artists as a venue owner.",
         tools: "PYTHON,BOOTSTRAP,POSTGRESQL,FLASK",
-        link: "https://github.com/denzubechi/Artist_booking-site",
-        github: "https://github.com/denzubechi/Artist_booking-site",
+        link: "https://github.com/denzubechi/artist_booking-site",
+        github: "https://github.com/denzubechi/artist_booking-site",
     },
     
     {
