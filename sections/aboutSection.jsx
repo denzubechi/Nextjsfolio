@@ -36,12 +36,12 @@ export default function AboutSection() {
                   <h2>Samuel Nzubechi</h2>
                   <p>
                   An Experienced software engineer, passionate about building impactful applications. 
-                  Specialized in full-stack web development with expertise in React/Nextjs, Node.js, and databases like MongoDB & PostgreSQL.
-                  Skilled in backend architectures, including Docker, for scalable and efficient deployments,Python for data processing and scripting.
+                  Specialized in full-stack web development with expertise in React/Nextjs, Node.js,Flask, and databases like MongoDB & PostgreSQL.
+                  Skilled in backend architectures, including Docker, for scalable and efficient deployments,python for data processing and scripting.
                   Strong collaborator with excellent communication skills, working seamlessly with cross-functional teams 
                   to deliver successful projects. Committed to continuous learning, staying up-to-date with emerging technologies.
-                   Dedicated to crafting clean, efficient code and creating intuitive user experiences.
-                   Explore my portfolio to see examples of my work and let's connect to discuss potential opportunities where my skills can make an impact
+                  Dedicated to crafting clean, efficient code and creating intuitive user experiences.
+                  Explore my portfolio to see examples of my work and let's connect to discuss potential opportunities where my skills can make an impact
                   </p>
 
                   <button className={styles.hire_me_btn}>
