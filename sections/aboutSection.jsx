@@ -35,7 +35,7 @@ export default function AboutSection() {
                   </h5>
                   <h2>Samuel Nzubechi</h2>
                   <p>
-                  An Experienced software engineer passionate about building impactful applications. 
+                  An Experienced software engineer, passionate about building impactful applications. 
                   Specialized in full-stack web development with expertise in React/Nextjs, Node.js, and databases like MongoDB & PostgreSQL.
                   Skilled in backend architectures, including Docker, for scalable and efficient deployments,Python for data processing and scripting.
                   Strong collaborator with excellent communication skills, working seamlessly with cross-functional teams 
