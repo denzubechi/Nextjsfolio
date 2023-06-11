@@ -19,7 +19,7 @@ export const projects = [
     {
         img: "https://res.cloudinary.com/dqny2b4gb/image/upload/v1681605267/cart_xdvmde.png",
         name: "Nzubechi Cart",
-        text: "Ecommerce platform. I integrated admin dashboard AND checkout processes using paypal ad credit card. ",
+        text: "Ecommerce platform. I integrated admin dashboard and checkout processes using paypal and credit card. ",
         tools: "MERN STACK,REDUX,BOOTSTRAP,REACT-PAYPAL",
         link: "https://nzubechicart.onrender.com/",
         github: "https://github.com/denzubechi/Ecommerce",
