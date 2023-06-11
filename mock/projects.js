@@ -6,7 +6,7 @@ export const projects = [
         text: "My portfolio website",
         tools: "FRAMER MOTION, NEXTJS",
         link: "https://nzubechi.vercel.app/",
-        github: "https://github.com/ugwustanley/portfolio",
+        github: "https://github.com/denzubechi/Nextjsfolio",
     },
 
     {
@@ -57,8 +57,8 @@ export const projects = [
         name: "Spotify UI Clone",
         text: "The Spotify UI clone with authentication",
         tools: "REACT,CONTEXT-API,FLEXBOX",
-        link: "https://authrocket.netlify.app",
-        github: "https://github.com/ugwustanley/authrocket-frontend",
+        link: "https://nzubechi-spotify-clone.netlify.app/",
+        github: "https://github.com/denzubechi/Spotify-Clone",
     },
     {
         img: "https://res.cloudinary.com/dqny2b4gb/image/upload/v1681605697/fyurr_h5aubn.jpg",
@@ -74,7 +74,7 @@ export const projects = [
         name: "QR-Code Generator",
         text: "QR-Code Generator for websites,Urls and web Applications.",
         tools: "HTML,CSS,JAVASCRIPT,TAILWIND-CSS",
-        link: "nzubechiqrgen.netlify.app/",
+        link: "https://nzubechiqrgen.netlify.app/",
         github: "https://github.com/denzubechi/QR-code-generator",
     },
     {
