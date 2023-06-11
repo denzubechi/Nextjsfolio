@@ -3,7 +3,7 @@
     display:grid;
     grid-template-columns:5fr 2fr;
     height:auto;
-    background: #090a0c;
+    background: #11151d;
     border-radius:15px;
     color:#e6f1ff;
     margin-top:5rem;
@@ -15,7 +15,7 @@
         height:inherit;
     }
     &_image{
-        background: #090a0c;
+        background: #11151d;
         border-top-left-radius:15px;
         border-bottom-left-radius:15px;
         padding:10px;
@@ -29,7 +29,7 @@
         }
         .project_link{
             position:absolute;
-            background: #090a0c;
+            background: #11151d;
             z-index:1;
             outline:none;
             border:none;
@@ -66,7 +66,7 @@
             border-top-right-radius:0px;
             border-bottom-left-radius:15px;
         }
-        background: #090a0c;
+        background: #11151d;
         padding:20px;
         display:flex;
         justify-content:center;
