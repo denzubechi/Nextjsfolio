@@ -8,19 +8,18 @@ export const projects = [
         link: "https://nzubechi.vercel.app/",
         github: "https://github.com/denzubechi/Nextjsfolio",
     },
-
     {
         img: "https://res.cloudinary.com/dqny2b4gb/image/upload/v1686423659/iStudy_heoxpv.png",
         name: "iStudy",
-        text: "Freelanced on an admin panel for a study applications,and also built the backend APIs for the mobile applications",
-        tools: "MERN,FRAMER-MOTION,REDUX,MATERIAL-UI,KATEX",
+        text: "Freelanced on an admin panel for a study applications,and also built the backend APIs for the mobile applications.",
+        tools: "MERN STACK,FRAMER-MOTION,REDUX,MATERIAL-UI,KATEX,RECHARTS",
         link: "https://www.istudyunleash.com/",
         github: "#",
     },
     {
         img: "https://res.cloudinary.com/dqny2b4gb/image/upload/v1681605267/cart_xdvmde.png",
         name: "Nzubechi Cart",
-        text: "Ecommerce platform,integrated admin dashboard with checkout processes using paypal ad credit card. ",
+        text: "Ecommerce platform. I integrated admin dashboard with checkout processes using paypal ad credit card. ",
         tools: "MERN STACK,REDUX,BOOTSTRAP",
         link: "https://nzubechicart.onrender.com/",
         github: "https://github.com/denzubechi/Eccomerce",
@@ -29,12 +28,10 @@ export const projects = [
         img: "https://res.cloudinary.com/dqny2b4gb/image/upload/v1686425636/9D980857-2A7E-4F15-99F9-021E79BAD565_vnhuc3.jpg",
         name: "Coffee Shop",
         text: "Digitally enabled cafe for students to order drinks, socialize, and study hard.",
-        tools: "TYPESCRIPT,ANGULAR,AUTH0,PYTHON,FLASK",
-        link: "#",
+        tools: "TYPESCRIPT,ANGULAR,AUTH0,PYTHON,FLASK,POSTGRESQL",
+        link: "https://github.com/denzubechi/CoffeeShop-FullStack",
         github: "https://github.com/denzubechi/CoffeeShop-FullStack",
     },
-
-   
     {
         img: "https://res.cloudinary.com/dqny2b4gb/image/upload/v1681604559/netflix_zjpsht.png",
         name: "Netflix-UI Clone",
@@ -44,9 +41,17 @@ export const projects = [
         github: "https://github.com/denzubechi/Netflix-Clone",
     },
     {
+        img: "https://res.cloudinary.com/dqny2b4gb/image/upload/v1686442422/tester_brvpxf.png",
+        name: "Website Assesibility Tester",
+        text: "Website accessibility tester for testing and finding errors in web applications. ",
+        tools: "HTML,JAVASCRIPT,BOOTSTRAP,EXPRESSJS,PALLY",
+        link: "https://accessibility-tester.onrender.com/",
+        github: "https://github.com/denzubechi/Accessibility-tester",
+    },
+    {
         img: "https://res.cloudinary.com/dqny2b4gb/image/upload/v1686425635/2AABF7EA-27E0-410C-951C-076BE9B915D9_jgbeua.jpg",
         name: "Trivia Api",
-        text: "A project to build and implement backend API's for a trivia application in my Nanodegree program at Udacity",
+        text: "Trvia App to create bonding experiences for employees and students.A Project I built during my Nanodegree program at Udacity.",
         tools: "REACT,PYTHON,FLASK,SQLALCHEMY,POSTGRESQL",
         link: "https://github.com/denzubechi/Trivia-Api",
         github: "https://github.com/denzubechi/Trivia-Api",
@@ -73,7 +78,7 @@ export const projects = [
         img: "https://res.cloudinary.com/dqny2b4gb/image/upload/v1686426224/code_n4impd.png",
         name: "QR-Code Generator",
         text: "QR-Code Generator for websites,Urls and web Applications.",
-        tools: "HTML,CSS,JAVASCRIPT,TAILWIND-CSS",
+        tools: "HTML,CSS,JAVASCRIPT,TAILWIND-CSS,QRCODEJS",
         link: "https://nzubechiqrgen.netlify.app/",
         github: "https://github.com/denzubechi/QR-code-generator",
     },
@@ -85,8 +90,4 @@ export const projects = [
         link: "https://nzubechi-movies.netlify.app/",
         github: "https://github.com/denzubechi/Movies",
     },
-
-  
-
-
 ]

@@ -93,11 +93,11 @@ function Navbar({ setNav, show_nav }) {
           </Link>
         </motion.div>
 
-        <h1 className={`${styles.nav_email}`}>
+        <h3 className={`${styles.nav_email}`}>
           <marquee>
-            Chukwumasamuel371@gmail.com Chukwumasamuel371@gmail.com
+           Samuel Nzubechi Samuel Nzubechi
           </marquee>
-        </h1>
+        </h3>
       </motion.div>
       {/* <h1 className={`${styles.nav_email}`}>Ugwuchiagoziestanley@gmail.com</h1> */}
     </>

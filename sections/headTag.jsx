@@ -7,7 +7,7 @@ export default function HeadTag() {
       <title>Samuel Nzubechi</title>
 
       <meta charset="utf-8" />
-      <link rel="icon" href="%PUBLIC_URL%/stan-1.svg" />
+      <link rel="icon" href="%PUBLIC_URL%/profile.png" />
       <meta name="viewport" content="width=device-width, initial-scale=1" />
       <meta name="theme-color" content="#0a192f" />
       {/* <!-- Windows Phone --> */}
@@ -36,7 +36,7 @@ export default function HeadTag() {
       <meta property="og:title" content={`Chukwuma Samuel Nzubechi`} />
       <meta
         property="og:description"
-        content={`Chukwuma Samuel's portfolio website`}
+        content={`Samuel Nzubechi Portfolio `}
       />
       <meta
         property="og:image"

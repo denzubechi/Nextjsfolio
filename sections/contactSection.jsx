@@ -17,7 +17,7 @@ export default function ContactSection() {
             <p>chukwumasamuel371@gmail.com</p>
           </Link>
           <Link href="tel:+2349062709826">
-            <p> +(234) 913 491 4531</p>
+            <p> +(234) 913 491 4531</p><p> +(234) 908 215 5508</p>
           </Link>
         </section>
     

@@ -1,7 +1,6 @@
 import React from "react";
 import Image from "next/image";
 import styles from "../styles/project.module.scss";
-import Bundle from "../images/bundle-home.png";
 import { motion, AnimatePresence } from "framer-motion";
 import { GithubLogo, Link, Globe } from "phosphor-react";
 import { projectVariant, imageVariant } from "../variants/index.js";
