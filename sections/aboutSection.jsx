@@ -35,12 +35,12 @@ export default function AboutSection() {
                   </h5>
                   <h2>Samuel Nzubechi</h2>
                   <p>
-                     A fullstack developer with experience in developing web applications using a variety of programming languages,
-                      frameworks, and databases. I have a strong understanding of both front-end and back-end development, 
-                      and I am proficient in languages such as JavaScript, Python, and SQL. I have experience in developing
-                      responsive user interfaces using modern web development tools such as React,Angular and Nextjs,
-                      and I have also worked with server-side technologies such as Node.js,Flask and Django. With my skills and experience,
-                     I am confident in my ability to contribute to the success of your company's software development projects.
+                  An Experienced software engineer passionate about building impactful applications. 
+                  Specialized in full-stack web development with expertise in React/Nextjs, Node.js, and MongoDB & PostgreSQL. 
+                  Strong collaborator with excellent communication skills, working seamlessly with cross-functional teams 
+                  to deliver successful projects. Committed to continuous learning, staying up-to-date with emerging technologies.
+                   Dedicated to crafting clean, efficient code and creating intuitive user experiences.
+                   Explore my portfolio to see examples of my work and let's connect to discuss potential opportunities
                   </p>
 
                   <button className={styles.hire_me_btn}>

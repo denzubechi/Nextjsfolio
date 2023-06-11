@@ -4,7 +4,7 @@ import Head from "next/head";
 export default function HeadTag() {
   return (
     <Head>
-      <title>Chukwuma Samuel Nzubechi</title>
+      <title>Samuel Nzubechi</title>
 
       <meta charset="utf-8" />
       <link rel="icon" href="%PUBLIC_URL%/stan-1.svg" />
@@ -24,14 +24,14 @@ export default function HeadTag() {
 
       <meta
         name="description"
-        content={`Frontend Developer: Torche`}
+        content={`Software Developer: Torche`}
       />
       <meta
         name="image"
-        content={"https://pbs.twimg.com/profile_images/1553584880835076096/BVO71Xvf_400x400.jpg"}
+        content={"/profile.png"}
       />
       <meta name="keywords" content="Chukwuma Samuel Nzubechi" />
-      <link rel="shortcut icon" href="/favicon.ico" />
+      <link rel="shortcut icon" href="/profile.png"  style={{borderRadius:"50%"}}/>
 
       <meta property="og:title" content={`Chukwuma Samuel Nzubechi`} />
       <meta
@@ -40,7 +40,7 @@ export default function HeadTag() {
       />
       <meta
         property="og:image"
-        content={"https://pbs.twimg.com/profile_images/1553584880835076096/BVO71Xvf_400x400.jpg"}
+        content={"/profile.png"}
       />
       <meta property="og:url" content={`https://nzubechi.vercel.app/`} />
       <meta property="og:type" content="website" />

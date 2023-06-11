@@ -36,7 +36,7 @@ export default function footerSection() {
           </div>
           <p className={styles.copy}>
             Copyright ©{" "}
-            <Link href="https://github.com/denzubechi">Ugwu Stanley</Link>{" "}
+            <Link href="https://github.com/denzubechi">Samuel Nzubechi</Link>{" "}
             2022, All rights reserved.
           </p>
         </div>

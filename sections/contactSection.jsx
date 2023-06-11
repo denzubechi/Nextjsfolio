@@ -9,11 +9,11 @@ export default function ContactSection() {
           <h4>Got a project in mind?</h4>
           <h2>
             Get In Touch.{" "}
-            <Link href="mailto:ugwuchiagoziestanley@gmail.com">
+            <Link href="mailto:chukwumasamuel371@gmail.com">
               <Envelope color="#ABABAD" weight="regular" size={80} />
             </Link>
           </h2>
-          <Link href="mailto:ugwuchiagoziestanley@gmail.com">
+          <Link href="mailto:chukwumasamuel371@gmail.com">
             <p>chukwumasamuel371@gmail.com</p>
           </Link>
           <Link href="tel:+2349062709826">
