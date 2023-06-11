@@ -71,21 +71,21 @@ function Navbar({ setNav, show_nav }) {
           variants={partVariant(0.6)}
           className={`${styles.nav_bar_part} ${styles.nav_bar_part_four}`}
         >
-          <Link href="https://www.linkedin.com/in/ugwustanley/">
+          <Link href="https://www.linkedin.com/in/samuel-nzubechi/">
             <motion.p variants={navSocialVariant(0.8)}>
               <span>Linkedin</span>{" "}
               <Image width="25" height="25" src={LinkedIn}></Image>
             </motion.p>
           </Link>
 
-          <Link href="https://twitter.com/chiagozie_ugwu">
+          <Link href="https://twitter.com/denzubechi">
             <motion.p variants={navSocialVariant(1)}>
               <span>Twitter</span>{" "}
               <Image width="25" height="25" src={Twitter}></Image>
             </motion.p>
           </Link>
 
-          <Link href="https://github.com/ugwustanley">
+          <Link href="https://github.com/denzubechi">
             <motion.p variants={navSocialVariant(1.2)}>
               <span>Github</span>{" "}
               <Image width="25" height="25" src={Github}></Image>
@@ -95,8 +95,7 @@ function Navbar({ setNav, show_nav }) {
 
         <h1 className={`${styles.nav_email}`}>
           <marquee>
-            ugwuchiagoziestanley@gmail.com ugwuchiagoziestanley@gmail.com
-            ugwuchiagoziestanley@gmail.com
+            Chukwumasamuel371@gmail.com Chukwumasamuel371@gmail.com
           </marquee>
         </h1>
       </motion.div>
