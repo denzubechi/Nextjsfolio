@@ -46,7 +46,7 @@ export default function AboutSection() {
 
                   <button className={styles.hire_me_btn}>
                     <Link
-                      href="https://drive.google.com/file/d/1ZCLpEBsio7O6LwX5ZUwPW6x1ylDXOPmW/view?usp=sharing"
+                      href="https://drive.google.com/file/d/1xEKohxA47C1VYW-19H4QVoD3aUxuWn6j/view?usp=drivesdk"
                       target="_blank"
                     >
                       View Resume
