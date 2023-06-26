@@ -33,9 +33,9 @@ export default function AboutSection() {
                     </motion.div>{" "}
                     , meet
                   </h5>
-                  <h2>Samuel Nzubechi</h2>
+                  <h2>Samuel zubechi</h2>
                   <p>
-                  An Experienced software engineer, passionate about building impactful applications. 
+                  I am an Experienced software engineer, passionate about building impactful applications. 
                   Specialized in full-stack web development with expertise in React/Nextjs, Node.js,Flask, and databases like MongoDB & PostgreSQL.
                   Skilled in backend architectures, including Docker, for scalable and efficient deployments,python for data processing and scripting.
                   Strong collaborator with excellent communication skills, working seamlessly with cross-functional teams 
@@ -46,7 +46,7 @@ export default function AboutSection() {
 
                   <button className={styles.hire_me_btn}>
                     <Link
-                      href="https://drive.google.com/file/d/1xEKohxA47C1VYW-19H4QVoD3aUxuWn6j/view?usp=drivesdk"
+                      href="https://docs.google.com/document/d/1OtcxBVDtGC4L7dBWU0Yrm1A5XnXfXi2gC9YAGxweDl4/edit?usp=sharing"
                       target="_blank"
                     >
                       View Resume
