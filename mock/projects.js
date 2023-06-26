@@ -6,7 +6,7 @@ export const projects = [
         name: "Konect",
         text: "A platform that connects Students within their industries for seamless collaboration, growth, and networking opportunities..#Currently building",
         tools: "MERN,REDUX,TAILWIND,BOOTSTRAP",
-        link: "https://konect.vercel.app/",
+        link: "https://konet.vercel.app/",
         github: "#",
     },
     {
