@@ -7,7 +7,7 @@ export default function HeadTag() {
       <title>Samuel Nzubechi</title>
 
       <meta charset="utf-8" />
-      <link rel="icon" href="%PUBLIC_URL%/profile.png" />
+      <link rel="icon" href="%PUBLIC_URL%/nzubechi.jpeg" />
       <meta name="viewport" content="width=device-width, initial-scale=1" />
       <meta name="theme-color" content="#0a192f" />
       {/* <!-- Windows Phone --> */}
@@ -16,11 +16,11 @@ export default function HeadTag() {
       <meta name="apple-mobile-web-app-capable" content="yes" />
       <meta name="apple-mobile-web-app-status-bar-style" content="#0a192f" />
 
-      <link rel="apple-touch-icon" href="%PUBLIC_URL%/profile.png" />
+      <link rel="apple-touch-icon" href="%PUBLIC_URL%/nzubechi.jpeg" />
 
       <link rel="manifest" href="%PUBLIC_URL%/manifest.json" />
 
-      <link rel="icon" href="/profile.png" />
+      <link rel="icon" href="/nzubechi.jpeg" />
 
       <meta
         name="description"
@@ -31,7 +31,7 @@ export default function HeadTag() {
         content={"/profile.png"}
       />
       <meta name="keywords" content="Chukwuma Samuel Nzubechi" />
-      <link rel="shortcut icon" href="/profile.png"  style={{borderRadius:"50%"}}/>
+      <link rel="shortcut icon" href="/nzubechi.jpeg"  style={{borderRadius:"50%"}}/>
 
       <meta property="og:title" content={`Chukwuma Samuel Nzubechi`} />
       <meta
