@@ -33,7 +33,7 @@ export default function AboutSection() {
                     </motion.div>{" "}
                     , meet
                   </h5>
-                  <h2>Samuel zubechi</h2>
+                  <h2>Samuel Nzubechi</h2>
                   <p>
                   I am an Experienced software engineer, passionate about building impactful applications. 
                   Specialized in full-stack web development with expertise in React/Nextjs, Node.js,Flask, and databases like MongoDB & PostgreSQL.
