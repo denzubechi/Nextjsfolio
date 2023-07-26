@@ -28,7 +28,7 @@ export default function HeadTag() {
       />
       <meta
         name="image"
-        content={"/profile.png"}
+        content={"/nzubechi.jpeg"}
       />
       <meta name="keywords" content="Chukwuma Samuel Nzubechi" />
       <link rel="shortcut icon" href="/nzubechi.jpeg"  style={{borderRadius:"50%"}}/>
