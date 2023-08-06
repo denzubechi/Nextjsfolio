@@ -99,7 +99,7 @@ function Navbar({ setNav, show_nav }) {
           </marquee>
         </h3>
       </motion.div>
-      {/* <h1 className={`${styles.nav_email}`}>Ugwuchiagoziestanley@gmail.com</h1> */}
+      {/* <h1 className={`${styles.nav_email}`}>Chkwumasamuel371@gmail.com</h1> */}
     </>
   );
 }

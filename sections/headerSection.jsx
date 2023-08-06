@@ -2,7 +2,6 @@ import {} from "react";
 import Image from "next/image";
 import Link from "next/link";
 import { motion} from "framer-motion";
-import Logo from "../images/stan-1.svg";
 import styles from "../styles/header.module.scss";
 
 export default function headerSection({ setShow_nav, setNav, show_nav }) {

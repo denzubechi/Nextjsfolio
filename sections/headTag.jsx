@@ -40,7 +40,7 @@ export default function HeadTag() {
       />
       <meta
         property="og:image"
-        content={"/profile.png"}
+        content={"/nzubechi.jpeg"}
       />
       <meta property="og:url" content={`https://nzubechi.vercel.app/`} />
       <meta property="og:type" content="website" />
