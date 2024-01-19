@@ -1,12 +1,21 @@
 export const projects = [
-
+    
+    {
+       
+        img: "https://res.cloudinary.com/dqny2b4gb/image/upload/v1705587837/nestsite_feszge.png",
+        name: "NestSite",
+        text: "A Nocode platform for creators to build portfolio,storefront,masterclass,events and bookings #Inprogress",
+        tools: "Nextjs,Nodejs,TailwindCSS,Redux,Prisma,PostgreSQL,Flutterwave API",
+        link: "https://nestsite.vercel.app",
+        github: "#",
+    },
     {
        
         img: "https://res.cloudinary.com/dqny2b4gb/image/upload/v1687537322/landijg_page_najlck.png",
-        name: "Konect",
+        name: "Konet",
         text: "A platform that connects Students within their industries for seamless collaboration, growth, and networking opportunities..#Currently building",
-        tools: "MERN STACK,REDUX,BOOTSTRAP,MATERIAL UI",
-        link: "https://konet.vercel.app/",
+        tools: "Nextjs,React,REDUX,BOOTSTRAP,MATERIAL UI",
+        link: "https://konect.vercel.app/",
         github: "#",
     },
     {
