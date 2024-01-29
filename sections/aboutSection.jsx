@@ -57,7 +57,7 @@ export default function AboutSection() {
               <div className={styles.about_me_main_s2}>
                 <img
                   //src={Memoji}
-                  src="/nzubechi.jpeg"
+                  src="https://res.cloudinary.com/dqny2b4gb/image/upload/v1706533806/dizlgbtfhwl32scqrecx.jpg"
                   className={styles.about_me__memoji}
                   layout="fill"
                   alt="My memoji smiling face"
