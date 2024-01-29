@@ -13,7 +13,7 @@ export const projects = [
        
         img: "https://res.cloudinary.com/dqny2b4gb/image/upload/v1706533354/dark_m3uc0k.png",
         name: "Analytics Dashboard",
-        text: "Frontend design of the Geepay Analystics dashboar UI ",
+        text: "Frontend design of the Geepay Analytics dashboar UI ",
         tools: "Nextjs,Typescript,Tailwindcss,",
         link: "https://geepay-analytics-dashboard.vercel.app/",
         github: "https://github.com/denzubechi/geepay_frontend_challenge",
@@ -32,7 +32,7 @@ export const projects = [
         img: "https://res.cloudinary.com/dqny2b4gb/image/upload/v1686423660/portfolio_tqnaze.png",
         name: "Portfolio",
         text: "My portfolio website",
-        tools: "FRAMER MOTION, NEXTJS, SASS",
+        tools: "Framer motion, Nextjs, scss",
         link: "https://nzubechi.vercel.app/",
         github: "https://github.com/denzubechi/Nextjsfolio",
     },
