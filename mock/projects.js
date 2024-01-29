@@ -5,9 +5,18 @@ export const projects = [
         img: "https://res.cloudinary.com/dqny2b4gb/image/upload/v1705587837/nestsite_feszge.png",
         name: "NestSite",
         text: "A Nocode platform for creators to build portfolio,storefront,masterclass,events and bookings #Inprogress",
-        tools: "Nextjs,Nodejs,TailwindCSS,Redux,Prisma,PostgreSQL,Flutterwave API",
+        tools: "Nextjs,Typescript,Nodejs,TailwindCSS,Redux,PostgreSQL",
         link: "https://nestsite.vercel.app",
         github: "#",
+    },
+    {
+       
+        img: "https://res.cloudinary.com/dqny2b4gb/image/upload/v1706533354/dark_m3uc0k.png",
+        name: "Analytics Dashboard",
+        text: "Frontend design of the Geepay Analystics dashboar UI ",
+        tools: "Nextjs,Typescript,Tailwindcss,",
+        link: "https://geepay-analytics-dashboard.vercel.app/",
+        github: "https://github.com/denzubechi/geepay_frontend_challenge",
     },
     {
        
