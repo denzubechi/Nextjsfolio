@@ -72,7 +72,7 @@ export const projects = [
         img: "https://res.cloudinary.com/dqny2b4gb/image/upload/v1686442422/tester_brvpxf.png",
         name: "Website Assesibility Tester",
         text: "Website accessibility tester for testing and finding errors in web applications. ",
-        tools: "HTML,JAVASCRIPT,BOOTSTRAP,EXPRESSJS,PALLY",
+        tools: "HTML,JAVASCRIPT,BOOTSTRAP,EXPRESSJS",
         link: "https://accessibility-tester.onrender.com/",
         github: "https://github.com/denzubechi/Accessibility-tester",
     },
