@@ -29,15 +29,6 @@ export const projects = [
     },
     {
        
-        img: "https://res.cloudinary.com/dqny2b4gb/image/upload/v1687537322/landijg_page_najlck.png",
-        name: "Konet",
-        text: "A platform that connects Students within their industries for seamless collaboration, growth, and networking opportunities..#Currently building",
-        tools: "Nextjs,React,REDUX,BOOTSTRAP,MATERIAL UI",
-        link: "https://konect.vercel.app/",
-        github: "#",
-    },
-    {
-       
         img: "https://res.cloudinary.com/dqny2b4gb/image/upload/v1686423660/portfolio_tqnaze.png",
         name: "Portfolio",
         text: "My portfolio website",
