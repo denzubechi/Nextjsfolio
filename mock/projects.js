@@ -11,6 +11,15 @@ export const projects = [
     },
     {
        
+        img: "https://res.cloudinary.com/dqny2b4gb/image/upload/v1717338461/motion_whu3ij.png",
+        name: "Motion 365",
+        text: "Motion 365 revolutionizes rideshare advertising by connecting advertisers with drivers, turning everyday commutes into dynamic brand experiences.",
+        tools: "React,Chakra,Typescript,,TailwindCSS,React-query",
+        link: "https://motion365ads.com/",
+        github: "#",
+    },
+    {
+       
         img: "https://res.cloudinary.com/dqny2b4gb/image/upload/v1706533354/dark_m3uc0k.png",
         name: "Analytics Dashboard",
         text: "Frontend design of the Geepay Analytics dashboar UI ",
