@@ -8,6 +8,14 @@ export const projects = [
     github: "#",
   },
   {
+    img: "https://res.cloudinary.com/dqny2b4gb/image/upload/v1729834626/travelsy_ckd2ca.png",
+    name: "Travelsy",
+    text: "Discover the best travel experiences, plan your next adventure, and explore the world with confidence. Find activities, equipment, and tips to make your journey unforgettable.",
+    tools: "React,Typescript,Tailwindcss",
+    link: "https://samuel-travelsy.vercel.app/",
+    github: "https://github.com/denzubechi/Trevelsy.git",
+  },
+  {
     img: "https://res.cloudinary.com/dqny2b4gb/image/upload/v1705587837/nestsite_feszge.png",
     name: "NestSite",
     text: "A Nocode platform for creators to build portfolio,storefront,masterclass,events and bookings #Inprogress",
