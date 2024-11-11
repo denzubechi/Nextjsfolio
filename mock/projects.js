@@ -12,7 +12,7 @@ export const projects = [
     name: "AI Teacha",
     text: "AI Teacha is an AI-driven platform that simplifies teaching tasks, helping educators save time and improve student outcomes.",
     tools: "React,Typescript,tailwindcss,express,openAI",
-    link: "https://www.agrictrail.com/",
+    link: "https://ai-teacha.vercel.app/",
     github: "#",
   },
   {
