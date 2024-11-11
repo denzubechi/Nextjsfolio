@@ -8,6 +8,14 @@ export const projects = [
     github: "#",
   },
   {
+    img: "https://res.cloudinary.com/dqny2b4gb/image/upload/v1731325605/ai-teacha_vrb7ol.png",
+    name: "AI Teacha",
+    text: "AI Teacha is an AI-driven platform that simplifies teaching tasks, helping educators save time and improve student outcomes.",
+    tools: "React,Typescript,tailwindcss,express,openAI",
+    link: "https://www.agrictrail.com/",
+    github: "#",
+  },
+  {
     img: "https://res.cloudinary.com/dqny2b4gb/image/upload/v1729834626/travelsy_ckd2ca.png",
     name: "Travelsy",
     text: "Discover the best travel experiences, plan your next adventure, and explore the world with confidence. Find activities, equipment, and tips to make your journey unforgettable.",
