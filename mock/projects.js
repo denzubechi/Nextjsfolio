@@ -1,10 +1,10 @@
 export const projects = [
   {
-    img: "https://res.cloudinary.com/dqny2b4gb/image/upload/v1729123752/agrictral_pmqyvb.png",
-    name: "Agrictrail",
-    text: "AgricTrail is a farming management app that helps farmers budget, track tasks, maintain records, and access resources like quality inputs, marketplaces, and expert support for sustainable agriculture.",
-    tools: "Nextjs,Typescript,GraphQL,Mongodb",
-    link: "https://www.agrictrail.com/",
+    img: "https://res.cloudinary.com/dqny2b4gb/image/upload/v1746525304/lxqehdqr5cqqtysbsaac.png",
+    name: "Waveserve",
+    text: "Waveserve connects people who need help with those ready to offer it. From small chores to big tasks, our app makes it easy to find reliable, nearby help—quickly and effortlessly.",
+    tools: "Nextjs,Typescript,Nodejs,AWS",
+    link: "https://www.waveserve.io/",
     github: "#",
   },
   {
@@ -13,6 +13,23 @@ export const projects = [
     text: "AI Teacha is an AI-driven platform that simplifies teaching tasks, helping educators save time and improve student outcomes.",
     tools: "React,Typescript,tailwindcss,express,openAI",
     link: "https://ai-teacha.vercel.app/",
+    github: "#",
+  },
+  {
+    img: "https://res.cloudinary.com/dqny2b4gb/image/upload/v1729123752/agrictral_pmqyvb.png",
+    name: "Agrictrail",
+    text: "AgricTrail is a farming management app that helps farmers budget, track tasks, maintain records, and access resources like quality inputs, marketplaces, and expert support for sustainable agriculture.",
+    tools: "Nextjs,Typescript,GraphQL,Mongodb",
+    link: "https://www.agrictrail.com/",
+    github: "#",
+  },
+
+  {
+    img: "https://res.cloudinary.com/dqny2b4gb/image/upload/v1717338461/motion_whu3ij.png",
+    name: "Motion 365",
+    text: "Motion 365 revolutionizes rideshare advertising by connecting advertisers with drivers, turning everyday commutes into dynamic brand experiences.",
+    tools: "React,Chakra,Typescript,,TailwindCSS,React-query",
+    link: "https://motion365ads.com/",
     github: "#",
   },
   {
@@ -31,14 +48,7 @@ export const projects = [
     link: "https://nestsite.vercel.app",
     github: "#",
   },
-  {
-    img: "https://res.cloudinary.com/dqny2b4gb/image/upload/v1717338461/motion_whu3ij.png",
-    name: "Motion 365",
-    text: "Motion 365 revolutionizes rideshare advertising by connecting advertisers with drivers, turning everyday commutes into dynamic brand experiences.",
-    tools: "React,Chakra,Typescript,,TailwindCSS,React-query",
-    link: "https://motion365ads.com/",
-    github: "#",
-  },
+
   {
     img: "https://res.cloudinary.com/dqny2b4gb/image/upload/v1706533354/dark_m3uc0k.png",
     name: "Analytics Dashboard",
