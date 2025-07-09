@@ -1,5 +1,13 @@
 export const projects = [
   {
+  img: "https://res.cloudinary.com/dqny2b4gb/image/upload/v1752051048/homepage_z12fyg.png",
+  name: "SuiEarn",
+  text: "SuiEarn is a premier bounty platform designed for the Sui ecosystem. It connects talented developers with innovative projects, allowing them to earn rewards for their contributions by facilitating reliable and secure work.",
+  tools: "Next,Typescript,Tailwindcss,Move",
+  link: "https://suiearn.vercel.app",
+  github: "#"
+}
+  {
     img: "https://res.cloudinary.com/dqny2b4gb/image/upload/v1746525304/lxqehdqr5cqqtysbsaac.png",
     name: "Waveserve",
     text: "Waveserve connects people who need help with those ready to offer it. From small chores to big tasks, our app makes it easy to find reliable, nearby help—quickly and effortlessly.",
