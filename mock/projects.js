@@ -6,7 +6,7 @@ export const projects = [
   tools: "Next,Typescript,Tailwindcss,Move",
   link: "https://suiearn.vercel.app",
   github: "#"
-}
+},
   {
     img: "https://res.cloudinary.com/dqny2b4gb/image/upload/v1746525304/lxqehdqr5cqqtysbsaac.png",
     name: "Waveserve",
