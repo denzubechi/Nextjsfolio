@@ -1,10 +1,10 @@
 export const projects = [
   {
   img: "https://res.cloudinary.com/dqny2b4gb/image/upload/v1752051048/homepage_z12fyg.png",
-  name: "SuiEarn",
-  text: "SuiEarn is a premier bounty platform designed for the Sui ecosystem. It connects talented developers with innovative projects, allowing them to earn rewards for their contributions by facilitating reliable and secure work.",
+  name: "BaseEarn",
+  text: "BaseEarn is a premier bounty platform designed for the Base ecosystem. It connects talented developers with innovative projects, allowing them to earn rewards for their contributions by facilitating reliable and secure work.",
   tools: "Next,Typescript,Tailwindcss,Move",
-  link: "https://suiearn.vercel.app",
+  link: "https://earnonbase.vercel.app",
   github: "#"
 },
   {
